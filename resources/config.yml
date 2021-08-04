@@ -3,7 +3,7 @@
 #
 #Created by HaykalPRO
 # Version: 1
-#   Created at: 28/May/2021
+#   Created at: 4/Agustus/2021
 #
 #==========================================
 #
@@ -14,38 +14,8 @@
 # Your World Name
 #
 #==========================================
-#
-# MESSAGE BUTTON ONE
-MSG-ONE: "§aHi §6{player} §aWelcome To Server :)"
-#
-#==========================================
-#
-# MESSAGE BUTTON TWO
-MSG-ONE: "§aEnjoy :)"
-#
-#==========================================
-#
-# MESSAGE BUTTON TWO
-MSG-ONE: "§aEnjoy :)"
-#
-#==========================================
-#
-# TITLE JOIN UI
-TITLE-JOINUI: "§l§bWELCOME"
-#
-#==========================================
-#
-# CONTENT JOIN UI
-CONTENT-JOINUI: "Edit In Config"
-#
-#==========================================
-#
-# BUTTON 1
-BUTTON-ONE: "Edit In Config"
-#
-#==========================================
-#
-# BUTTON 2
-BUTTON-TWO: "Edit In Config"
-#
+title: "JoinUI"
+content: "Your Content"
+button: "button-name"
+join-message: "{name} has join Server!"
 #==========================================

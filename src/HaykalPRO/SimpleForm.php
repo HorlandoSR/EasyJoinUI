@@ -2,7 +2,7 @@
 
 declare(strict_types = 1);
 
-namespace NuthMC\JoinUI;
+namespace HaykalPRO;
 
 class SimpleForm extends Form {
 
